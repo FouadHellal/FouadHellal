@@ -22,16 +22,8 @@
 
 ### Experience
 - **Intern at the IP Backbone & Transmission services**, Djezzy, Dar el Beida, Algiers (Aug 2023 - Sep 2023)
-  - Delved into network protocols and optical transmissions.
-  - Acquired insights into data communication and optical technology.
-
 - **Intern at the Radar & Radio Services**, National Air Navigation Establishment (ENNA), Algiers (Nov 2022 – Dec 2022)
-  - Gained knowledge in radio waves propagation, antenna systems, and radar systems.
-  - Visited the Radar, Radio, and Commutation Service within the Department of Air Operations.
-
 - **Intern at the IP Backbone & Transmission services**, Djezzy, Dar el Beida, Algiers (Feb 2022 - Mar 2022)
-  - Gained comprehensive experience in LTE core network EPC, IPRAN, IGW, and various telecommunication layers.
-  - Acquired knowledge of transmission techniques and technologies including MW and optical systems.
 
 ### Education
 - **Master's degree in Network & Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2022 - June 2024)
@@ -41,11 +33,6 @@
 - **Cisco Certified Network Associate (CCNA)**, ICT-Towers, Bab Ezzouar, Algiers (July 2023)
 - **Cisco Certified Network Professional (CCNP) Enterprise Network Core Technologies (ENCOR)**, ICT-Towers, Bab Ezzouar, Algiers (July 2023)
 - **Cisco Certified Network Professional (CCNP) Enterprise Advanced Routing and Services (ENARSI)**, ICT-Towers, Bab Ezzouar, Algiers (August 2023)
-
-### Projects
-- Network Intrusion and Anomaly Detection with machine learning and deep learning models.
-- Network equipment temperature monitoring using esp32 and SDN in a Django/Ajax website interface.
-- Plant severity disease estimation, classification, and detection website using U-Net, ViT, and Django/Ajax.
 
 ### Skills
 - **Networking**: TCP/IP, subnetting, VLANs, routing, switching, Cisco routers, and switches, network security concepts, wireless technologies.
