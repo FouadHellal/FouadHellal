@@ -22,11 +22,6 @@
 
 - ⚡ Fun fact **I am a reaaaally good artist :) check out https://instagram.com/fouad_arts/**
 
-### Experience
-- **Intern at the IP Backbone & Transmission services**, Djezzy, Dar el Beida, Algiers (Aug 2023 - Sep 2023)
-- **Intern at the Radar & Radio Services**, National Air Navigation Establishment (ENNA), Algiers (Nov 2022 – Dec 2022)
-- **Intern at the IP Backbone & Transmission services**, Djezzy, Dar el Beida, Algiers (Feb 2022 - Mar 2022)
-
 ### Education
 - **Master's degree in Network & Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2022 - June 2024)
 - **Licence degree in Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2019 - June 2022)
