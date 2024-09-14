@@ -4,7 +4,9 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="50"/>
 </p>
 
-- 🔭 I’m currently working on **A monitoring network interface that has multiple features**
+- 🔭 I’m currently working on **A network solution interface that has multiple monitoring features**
+
+- 👨🏻‍💻 Currently working as IT Manager for Ecole les Aures
 
 - 🌱 I’m currently learning **Network Security & AI**
 
