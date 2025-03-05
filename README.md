@@ -6,11 +6,9 @@
 
 - 🔭 I’m currently working on **A network solution interface that has multiple monitoring features**
 
-- 👨🏻‍💻 Currently working as IT Manager for Ecole les Aures
-
 - 🌱 I’m currently learning **Network Security & AI**
 
-- 👯 I’m looking to collaborate on **the IT service on any company.**
+- 👯 I’m looking to collaborate on **the IT services**
 
 - 👨‍💻 All of my projects are available at [github.com/FouadHellal](https://github.com/FouadHellal)
 
