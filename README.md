@@ -4,15 +4,13 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding" width="50"/>
 </p>
 
-- 🔭 I’m currently working on **A network solution interface that has multiple monitoring features**
-
+- 🔭 I’m currently working as IT Centralized Services & Clients support for Utilis IT
+-     Also doing my PhD at USTHB
 - 🌱 I’m currently learning **Network Security & AI**
-
-- 👯 I’m looking to collaborate on **the IT services**
-
+- 
 - 👨‍💻 All of my projects are available at [github.com/FouadHellal](https://github.com/FouadHellal)
 
-- 💬 Ask me about : **Django, Python, AI, Networking and Telecom.**
+- 💬 Ask me about : **AI, Networking and IT.**
 
 - 📫 To reach me : **helfouad@gmail.com**
 
@@ -23,6 +21,7 @@
 ### Education
 - **Master's degree in Network & Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2022 - June 2024)
 - **Licence degree in Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2019 - June 2022)
+- **PhD**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (April 2025 - current)
 
 ### Certifications
 - **Cisco Certified Network Associate (CCNA)**, ICT-Towers, Bab Ezzouar, Algiers (July 2023)
