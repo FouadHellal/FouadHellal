@@ -6,10 +6,10 @@
 
 - I’m currently working as IT Centralized Services & Clients support for Utilis IT
 - I am Also doing my PhD at USTHB
-- 👨‍💻 All of my projects are available at [github.com/FouadHellal](https://github.com/FouadHellal)
-- 💬 Ask me about : **AI, Networking and IT.**
-- 📫 To reach me : **helfouad@gmail.com**
-- ⚡ Fun fact **I am a reaaaally good artist :) check out https://instagram.com/fouad_arts/**
+- All of my projects are available at [github.com/FouadHellal](https://github.com/FouadHellal)
+- Ask me about : **AI, Networking and IT.**
+- To reach me : **helfouad@gmail.com**
+- Fun fact **I am a reaaaally good artist :) check out https://instagram.com/fouad_arts/**
 
 ### Education
 - **Master's degree in Network & Telecommunication**, University of Science & Technology Houari Boumediene (USTHB), Bab Ezzouar, Algiers (Sep 2022 - June 2024)
